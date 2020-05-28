@@ -1,0 +1,4 @@
+# TCP-and-UDP-Clients-Servers-Practice
+Included in this project are two seperate folders that contain both TCP and UDP servers and clients.  In the TCP folder there are two folders, one for a simple server and client and one for a enhanced server and client.  The simple verison will simply allow you to connect the client to connect and send a message to the server.  The enhanced verison will allow you to connect to a server and also allow you to send a message and recieve a response from the server.  Simiarly the folder for UDP contains just a simple verison that allows a client to connect and send a message to a server.  This project was created to begin to learn how clients and servers work using different protocols.
+
+Also included is a discussion about TCP and UDP along with the the file protocol which discusses in depth use and how the programs work.
